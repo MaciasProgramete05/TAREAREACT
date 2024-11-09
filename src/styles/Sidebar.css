@@ -1,0 +1,15 @@
+aside {
+    width: 200px;
+    background-color: #e9ecef;
+    padding: 15px;
+    height: 100vh; /* Altura completa */
+}
+
+aside ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+aside li {
+    margin-bottom: 10px;
+}
